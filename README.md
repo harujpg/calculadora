@@ -38,9 +38,9 @@ ou acesse o [Spotify](https://open.spotify.com/user/31fvs4l5vz6wc3iocyczkr7fazrm
 
 #### Coixas de check
 
--[ ] Fazer a tela de login
--[ ] Criar a tela de calculo
--[ ] Criar a tela de histórico
+- [x] Fazer a tela de login
+- [x] Criar a tela de calculo
+- [x] Criar a tela de histórico
 
 #### Tabelas
 | Coluna 1 | Coluna 2 |
